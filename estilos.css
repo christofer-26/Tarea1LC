@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to right, #d00000, #0d47a1);
+}
+.in{
+    font-size: 25px;
+     font-family: fantasy;
+}
+.ti{
+    font-size: 45px;
+    font-family: fantasy;
+}
+.padre{
+    display: flex;
+    gap: 50px;
+    margin-top: 5%;
+    margin-left: 33% ;
+}
