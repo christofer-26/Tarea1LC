@@ -8,5 +8,9 @@
 body{
     background: linear-gradient(to right, #d00000, #0d47a1);
     
-
+}
+.baton{
+    text-align: center;
+    font-size: 20px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
 }
