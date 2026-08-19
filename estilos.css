@@ -1,28 +1,39 @@
-body{
+body {
     background: linear-gradient(to right, #d00000, #0d47a1);
 }
-.in{
+
+.in {
     font-size: 25px;
-     font-family: fantasy;
-      -webkit-text-stroke: 1px #ffff;
+    font-family: fantasy;
+    -webkit-text-stroke: 1px #ffff;
 }
-.ti{
+
+.ti {
     font-size: 45px;
     font-family: fantasy;
-     -webkit-text-stroke: 1px #ffff;
-    
+    -webkit-text-stroke: 1px #ffff;
+
+
 }
-.padre{
+
+.ti:hover {
+    color: #0068ff;
+}
+.in:hover{
+    color: #ff0000;
+}
+.padre {
     display: flex;
     gap: 50px;
     margin-top: 5%;
-    margin-left: 33% ;
-    
+    margin-left: 33%;
+
 }
-.hj1{
-    border: 2px solid #ffff;
-}
-.hj2{
+
+.hj1 {
     border: 2px solid #ffff;
 }
 
+.hj2 {
+    border: 2px solid #ffff;
+}
