@@ -4,17 +4,25 @@ body{
 .in{
     font-size: 25px;
      font-family: fantasy;
+      -webkit-text-stroke: 1px #ffff;
 }
 .ti{
     font-size: 45px;
     font-family: fantasy;
+     -webkit-text-stroke: 1px #ffff;
+    
 }
 .padre{
     display: flex;
     gap: 50px;
     margin-top: 5%;
     margin-left: 33% ;
-}
-.ir{
     
 }
+.hj1{
+    border: 2px solid #ffff;
+}
+.hj2{
+    border: 2px solid #ffff;
+}
+
