@@ -1,0 +1,12 @@
+.titulo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.kj{
+    background-color: #d62828;
+}
+body{
+    background: linear-gradient(to right, #d00000, #0d47a1);
+    
+
+}
